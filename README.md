@@ -1,4 +1,5 @@
-# Digital-Image-Processing (NYCU) ⚠️禁制抄襲⛔，僅提供參考！
+# Digital-Image-Processing (NYCU) 
+## ⚠️禁制抄襲⛔，僅提供參考！
 * Homework (50%) + Final Exam (20%) + Final Project (30%)
 
 ### **Homework 1**
