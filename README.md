@@ -1,4 +1,4 @@
-# 2025_Digital-Image-Processing (NYCU)
+# 2024_Digital-Image-Processing (NYCU)
 * Homework (50%) + Final Exam (20%) + Final Project (30%) 
 
 ### **Homework 1**
