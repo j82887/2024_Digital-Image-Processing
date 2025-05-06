@@ -18,5 +18,5 @@
 03. Color Temperature Adjustment (30%) [**[Code]**](https://github.com/j82887/2024_Digital-Image-Processing/blob/main/Code/Homework_3_3.c)
 
 ### **Final Project - Water Segmentation** 
-* Demo(40 %) + Project Content(60 %) [**[PDF]**](https://github.com/j82887/2024_Digital-Image-Processing/blob/main/DIP%20-%20Final%20Project%20-%20Group%2020.pdf)
+* Demo(40%) + Project Content(60%) [**[PDF]**](https://github.com/j82887/2024_Digital-Image-Processing/blob/main/DIP%20-%20Final%20Project%20-%20Group%2020.pdf)
 
